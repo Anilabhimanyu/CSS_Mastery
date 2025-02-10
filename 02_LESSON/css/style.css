@@ -1,0 +1,33 @@
+/* This is not inheriting, but its indicates selecting all */
+
+* {
+    font-family: monospace;
+}
+body {
+    font-family: sans-serif;
+}
+main {
+    color: red;
+}
+
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    color: purple!important;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
